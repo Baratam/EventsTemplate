@@ -75,13 +75,15 @@ a:hover {
 }
 
 #breadcrumb {
-	background-color: #1BBD36;
+	/*background-color: #1BBD36; */
+	background-color: #3c71a7;
 	margin-top: -20px;
 }
 
 .breadcrumb { 
   list-style: none;
-  background-color: #1BBD36;
+  /*background-color: #1BBD36; */
+  background-color: #3c71a7;
   border-radius: 0px;
   padding:3px 10px;
 }
@@ -138,7 +140,8 @@ a:hover {
 }
 
 .nav-tabs > li > a:hover {	
-	color: #1BBD36;
+	/*color: #1BBD36;*/
+	color: #337ab7;
 	border-color: #fff #fff #fff;
 	border-radius:0;
 	background-color:#fff; 
@@ -148,7 +151,8 @@ a:hover {
 	-o-transition: all 0.3s ease-in-out;
 }
 .nav-tabs > li > a.active {
-	color: #1BBD36;
+	/*color: #1BBD36;*/
+	color: #337ab7;
 	border-radius:0;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -289,7 +293,8 @@ a:hover {
 	margin-bottom:30px;
 	color:#fff;
 	padding:50px;
-	background:#1BBD36;
+	/*background:#1BBD36;*/
+	background:#3696da;
 	border-radius:50%;
 }
 
@@ -686,8 +691,10 @@ ul.social-network li a {
 .portfolio-filter > li a:hover,
 .portfolio-filter > li a.active{
   color:#fff;
-  background: #1BBD36;
-  border: 1px solid #1BBD36;
+ /* background: #1BBD36;
+  border: 1px solid #1BBD36; */
+  background: #3c71a7;
+  border: 1px solid #f5f5f5;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
